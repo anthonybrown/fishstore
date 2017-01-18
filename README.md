@@ -9,3 +9,7 @@ made to that store.
 I didn't bother to get the Facebook OAuth configured correctly but I'll come back to that.
 
 🔥🔥🔥🔥🔥🔥
+
+TODO:
+
+Make responsive
